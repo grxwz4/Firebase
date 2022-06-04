@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "373770697486",
+    "firebase_url": "https://moviles-80050-default-rtdb.firebaseio.com",
+    "project_id": "moviles-80050",
+    "storage_bucket": "moviles-80050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373770697486:android:ffc75d3bdf791c03dfb55f",
+        "android_client_info": {
+          "package_name": "com.example.basicfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373770697486-dcmvoqlpub81cqmgl05ukd6ompmimd7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfkdatTW4WBZMWfAXNdFqElFuF_Uh2Yvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373770697486-dcmvoqlpub81cqmgl05ukd6ompmimd7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373770697486:android:b95402e3dbf1490adfb55f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373770697486-dcmvoqlpub81cqmgl05ukd6ompmimd7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfkdatTW4WBZMWfAXNdFqElFuF_Uh2Yvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373770697486-dcmvoqlpub81cqmgl05ukd6ompmimd7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
